@@ -7,17 +7,17 @@ public class Myclass
 
 	public static void main(String[] args) 
 	{
-		int age;
-		int weight;
-		Scanner sc=new Scanner(System.in);
-		System.out.println("Enter Age:");
-		age = sc.nextInt();
-		System.out.println("Enter Weight:");
-		weight = sc.nextInt();
-		if(age>=18);
-		if(weight>=50);
-		System.out.println("You have Passed The Eligibility Test to Donate Blood");
-	
-	}
+			int age;
+			int weight;
+			Scanner sc = new Scanner(System.in);
+			{
+			System.out.println("Enter Age:");
+			age = sc.nextInt();
+			System.out.println("Enter Weight:");
+			weight = sc.nextInt();
+			}
+			if(age>=18);
+			if(weight>=50);
+		}
 
 }
